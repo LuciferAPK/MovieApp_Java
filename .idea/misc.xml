@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TheMovie_Chill/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/fragment_home.xml" value="0.27219202898550726" />
+        <entry key="..\:/TheMovie_Chill/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/fragment_movies.xml" value="0.15715579710144928" />
+        <entry key="..\:/TheMovie_Chill/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/fragment_now_playing.xml" value="0.27219202898550726" />
+        <entry key="..\:/TheMovie_Chill/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/fragment_popular.xml" value="0.27219202898550726" />
+        <entry key="..\:/TheMovie_Chill/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/fragment_top_rated.xml" value="0.27219202898550726" />
+        <entry key="..\:/TheMovie_Chill/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/fragment_tvs.xml" value="0.27219202898550726" />
+        <entry key="..\:/TheMovie_Chill/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/fragment_upcoming.xml" value="0.27219202898550726" />
+        <entry key="..\:/TheMovie_Chill/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/item_movie.xml" value="0.27219202898550726" />
+        <entry key="..\:/TheMovie_Chill/MovieChill_Update3/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/fragment_tv_detail.xml" value="0.18795289855072464" />
+        <entry key="..\:/TheMovie_Chill/TheMovieChill-main/app/src/main/res/drawable/border_homgfrg.xml" value="0.2305" />
+        <entry key="..\:/TheMovie_Chill/TheMovieChill-main/app/src/main/res/drawable/border_view.xml" value="0.2305" />
+        <entry key="..\:/TheMovie_Chill/TheMovieChill-main/app/src/main/res/drawable/custom_layout1.xml" value="0.1965" />
+        <entry key="..\:/TheMovie_Chill/TheMovieChill-main/app/src/main/res/drawable/custom_layout2.xml" value="0.2305" />
+        <entry key="..\:/TheMovie_Chill/TheMovieChill-main/app/src/main/res/drawable/custom_view_bg.xml" value="0.2305" />
+        <entry key="..\:/TheMovie_Chill/TheMovieChill-main/app/src/main/res/drawable/ic_baseline_play.xml" value="0.1965" />
+        <entry key="..\:/TheMovie_Chill/TheMovieChill-main/app/src/main/res/drawable/ic_favorite.xml" value="0.2305" />
+        <entry key="..\:/TheMovie_Chill/TheMovieChill-main/app/src/main/res/drawable/ic_favorite_border.xml" value="0.1965" />
+        <entry key="..\:/TheMovie_Chill/TheMovieChill-main/app/src/main/res/drawable/ic_movie.xml" value="0.1965" />
+        <entry key="..\:/TheMovie_Chill/TheMovieChill-main/app/src/main/res/drawable/ic_star.xml" value="0.2305" />
+        <entry key="..\:/TheMovie_Chill/TheMovieChill-main/app/src/main/res/drawable/ic_star_border.xml" value="0.2305" />
+        <entry key="..\:/TheMovie_Chill/TheMovieChill-main/app/src/main/res/layout/activity_detail.xml" value="0.2086956590966153" />
+        <entry key="..\:/TheMovie_Chill/TheMovieChill-main/app/src/main/res/layout/activity_main.xml" value="0.27219202898550726" />
+        <entry key="..\:/TheMovie_Chill/TheMovieChill-main/app/src/main/res/layout/fragment_home.xml" value="0.27219202898550726" />
+        <entry key="..\:/TheMovie_Chill/TheMovieChill-main/app/src/main/res/layout/item_img.xml" value="0.27219202898550726" />
+        <entry key="..\:/TheMovie_Chill/TheMovieChill-main/app/src/main/res/layout/item_top_billed.xml" value="0.27219202898550726" />
+        <entry key="..\:/TheMovie_Chill/TheMovieChill-main/app/src/main/res/layout/item_video.xml" value="0.27219202898550726" />
+        <entry key="..\:/TheMovie_Chill/TheMovie_Chill/app/data/src/main/res/layout/activity_main.xml" value="0.2509057971014493" />
+        <entry key="..\:/TheMovie_Chill/TheMovie_Chill/app/src/main/res/layout/activity_main.xml" value="0.2509057971014493" />
+        <entry key="..\:/TheMovie_Chill/TheMovie_Chill/app/src/main/res/layout/activity_splash.xml" value="0.2509057971014493" />
+        <entry key="..\:/TheMovie_Chill/TheMovie_Chill/data/src/main/res/layout/activity_main.xml" value="0.2509057971014493" />
+        <entry key="..\:/TheMovie_Chill/TheMovie_Chill/domain/src/main/res/layout/activity_main.xml" value="0.2509057971014493" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/MovieChill_Update/TheMovieChill-main/app/src/main/res/drawable/border_homgfrg.xml" value="0.1345" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/MovieChill_Update/TheMovieChill-main/app/src/main/res/drawable/border_view_img.xml" value="0.1345" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/MovieChill_Update/TheMovieChill-main/app/src/main/res/drawable/custom_view_bg.xml" value="0.1345" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/MovieChill_Update/TheMovieChill-main/app/src/main/res/drawable/ic_app.xml" value="0.1" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/MovieChill_Update/TheMovieChill-main/app/src/main/res/drawable/ic_baseline_play.xml" value="0.1345" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/activity_detail.xml" value="0.132" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/activity_main.xml" value="0.132" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/fragment_airing_today_tv.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/fragment_detail.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/fragment_home.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/fragment_movie_detail.xml" value="0.2" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/fragment_movies.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/fragment_nowplaying_movie.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/fragment_ontv.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/fragment_popular_movie.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/fragment_popular_tv.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/fragment_top_rated_tv.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/fragment_toprated_movie.xml" value="0.10099637681159421" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/fragment_tv_detail.xml" value="0.2" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/fragment_tvs.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/fragment_upcoming_movie.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/item_img.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/item_movie.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/item_top_billed.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/item_video.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/layout_loading.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/layout_movie_detail.xml" value="0.2" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/layout_tv_detail.xml" value="0.132" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/Second Update/MovieChill_Update/TheMovieChill-main/app/src/main/res/drawable/custom_l2.xml" value="0.1365" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/Second Update/MovieChill_Update/TheMovieChill-main/app/src/main/res/drawable/custom_layout.xml" value="0.1365" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/Second Update/MovieChill_Update/TheMovieChill-main/app/src/main/res/drawable/custom_view_bg.xml" value="0.127" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/Second Update/MovieChill_Update/TheMovieChill-main/app/src/main/res/drawable/ic_favorite.xml" value="0.1365" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/Second Update/MovieChill_Update/TheMovieChill-main/app/src/main/res/drawable/ic_favorite_border.xml" value="0.127" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/Second Update/MovieChill_Update/TheMovieChill-main/app/src/main/res/drawable/ic_movie.xml" value="0.127" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/Second Update/MovieChill_Update/TheMovieChill-main/app/src/main/res/drawable/ic_star.xml" value="0.1455" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/Second Update/MovieChill_Update/TheMovieChill-main/app/src/main/res/drawable/ic_star_border.xml" value="0.1455" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/Second Update/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/activity_detail.xml" value="0.2" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/Second Update/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/fragment_detail.xml" value="0.1" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/Second Update/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/fragment_home.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/Second Update/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/fragment_movies.xml" value="0.17330861909175163" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/Second Update/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/fragment_now_playing.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/Second Update/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/fragment_nowplaying_movie.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/Second Update/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/fragment_ontv.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/Second Update/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/fragment_popular.xml" value="0.2" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/Second Update/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/fragment_popular_movie.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/Second Update/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/fragment_popular_tv.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/Second Update/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/fragment_top_rated.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/Second Update/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/fragment_toprated_movie.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/Second Update/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/fragment_tvs.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/Second Update/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/fragment_upcoming.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/Second Update/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/fragment_upcoming_movie.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/Second Update/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/item_img.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/Second Update/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/item_movie.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/Second Update/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/item_top_billed.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/Second Update/MovieChill_Update/TheMovieChill-main/app/src/main/res/layout/item_video.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/TheMovieChill-main/app/src/main/res/drawable/border_homgfrg.xml" value="0.1025" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/TheMovieChill-main/app/src/main/res/drawable/border_view_img.xml" value="0.1025" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/TheMovieChill-main/app/src/main/res/drawable/custom_image.xml" value="0.1335" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/TheMovieChill-main/app/src/main/res/drawable/custom_l2.xml" value="0.114" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/TheMovieChill-main/app/src/main/res/drawable/custom_layout.xml" value="0.114" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/TheMovieChill-main/app/src/main/res/drawable/custom_layout1.xml" value="0.1025" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/TheMovieChill-main/app/src/main/res/drawable/custom_layout2.xml" value="0.1025" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/TheMovieChill-main/app/src/main/res/layout/activity_detail.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/TheMovieChill-main/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/TheMovieChill-main/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/TheMovieChill-main/app/src/main/res/layout/fragment_detail.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/TheMovieChill-main/app/src/main/res/layout/fragment_home.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/TheMovieChill-main/app/src/main/res/layout/fragment_movies.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/TheMovieChill-main/app/src/main/res/layout/fragment_tvs.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/TheMovieChill-main/app/src/main/res/layout/item_img.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/TheMovieChill-main/app/src/main/res/layout/item_movie.xml" value="0.1796875" />
+        <entry key="..\:/Users/cuong.nd1/Desktop/TheMovieChill/TheMovieChill-main/app/src/main/res/menu/menu_home_navigation.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
